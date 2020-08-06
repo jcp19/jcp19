@@ -1,5 +1,6 @@
 ### Hello World! 👋🌎 
-- ❤️ **Formal Methods**, **Programming Languages**, **Program Analysis**, **Concurrency**, **Distributed Systems**<!-- - 🔭 Ph.D. student at -->
+- ❤️ **Formal Methods**, **Programming Languages**, **Program Analysis**, **Concurrency**, **Distributed Systems**
+- 🔭 Ph.D. student in the [Programming Methodology Group](https://www.pm.inf.ethz.ch/) at ETH Zürich
 - 🌱 Learning **Golang** and **Rust**
 - 📫 Check [my website](https://joaocpereira.me) for contact info
 - ⚡ Fun fact: I am very much into **board games** 🎲 Send me your cool suggestions!
