@@ -1,11 +1,13 @@
 ### Hello World! 👋🌎 
-- ❤️ **Formal Methods**, **Programming Languages**, **Program Analysis**, **Concurrency**, **Distributed Systems**
+- ❤️ **Formal Methods**, **Programming Languages**, **Concurrency**, **Distributed Systems**
 - 🔭 Ph.D. student in the [Programming Methodology Group](https://www.pm.inf.ethz.ch/) at ETH Zürich
-- 🌱 Learning **Golang** and **Scala**
-- ⚡ Fun fact: I am very much into **board games** 🎲 Send me your cool suggestions!
-<!-- - 📫 Check [my website](https://joaocpereira.me) for contact info -->
+- 📫 Check [my website](https://jaoper.com) for contact info
 
 <!--
+- 🌱 Learning **Golang** and **Scala**
+
+- ⚡ Fun fact: I am very much into **board games** 🎲 Send me your cool suggestions!
+
 **jcp19/jcp19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
